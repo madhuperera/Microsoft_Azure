@@ -1,4 +1,4 @@
-# Microsoft_Azure
+# Microsoft Azure
 Welcome to Madhu's Repository of Scripts that you can use with Microsoft Azure Services. I am sharing these scripts **"AS IS" without any kind of warranty**. Please go through the scripts' content before deploying in your environment.
 
 If you have any question about any of the scripts or you have an idea for a PowerShell based script, please leave a comment.
